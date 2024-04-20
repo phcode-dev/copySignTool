@@ -8,6 +8,6 @@ edition = "2021"
 [dependencies]
 bitness = "0.4.0"
 log = "0.4.20"
-thiserror = "1.0.44"
+thiserror = "1.0.59"
 winreg = "0.50.0"
 fs_extra="1.3.0"
